@@ -1,0 +1,10 @@
+{
+  "simulation": "UserSimulation",
+  "simulationId": "usersimulation",
+  "start": 1638462681637,
+  "description": "",
+  "scenarios": ["Post comment", "Get comment", "Put comment", "Delete comment"],
+  "assertions": [
+
+  ]
+}
